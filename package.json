@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-build-mix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "build:production": "node build.js --production",
+    "watch": "node build.js --watch"
+  },
+  "author": "Matt Cunningham",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.1.3",
+    "browser-sync": "^2.27.9",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "dotenv": "^16.0.0",
+    "laravel-mix": "^6.0.43",
+    "mix-env-file": "^0.1.1",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.50.0",
+    "sass-loader": "^12.6.0",
+    "webpack-livereload-plugin": "^3.0.2"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5"
+  }
+}
