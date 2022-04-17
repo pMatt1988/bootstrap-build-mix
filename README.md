@@ -1,11 +1,11 @@
-#Bootstrap Build Mix
+# Bootstrap Build Mix
 
 Bootstrap Build Mix is a simple bootstrap build pipeline using Laravel Mix.
 
-##Installation
+## Installation
 `npm install`
 
-##Usage
+## Usage
 To build app.scss and app.js, run `npm run build`.
 You may be asked to run `npm run build` twice the first time.
 
