@@ -17,7 +17,7 @@ There is an example of how Bootstrap scss values can be overridden in the `src/s
 You can change your input file names and output folders in `webpack.mix.js` as well as add your own custom sass and
 js files.
 
-You can remove functionality that you don't need by commenting out modules in `src/scss/_bootstrap.scss`.
+You can remove Bootstrap styling that you don't need by commenting out modules in `src/scss/_bootstrap.scss`.
 
 
 
