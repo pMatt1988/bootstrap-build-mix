@@ -12,7 +12,7 @@ You may be asked to run `npm run build` twice the first time.
 To watch for changes to app.js and app.scss, run `npm run watch` this command will also run browserSync.
 If you would like to run watch without browserSync `npm run build -- --watch`.
 
-There is an example of how Bootstrap scss can be compiled and overridden in the `src/scss/app.scss` files.
+There is an example of how Bootstrap scss values can be overridden in the `src/scss/app.scss` files.
 
 You can change your input file names and output folders in `webpack.mix.js` as well as add your own custom sass and
 js files.
