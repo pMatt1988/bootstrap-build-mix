@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node build.js",
     "build:production": "node build.js --production",
-    "watch": "node build.js --watch"
+    "watch": "node build.js --watch --browserSync"
   },
   "author": "Matt Cunningham",
   "license": "ISC",
